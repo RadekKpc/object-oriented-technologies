@@ -1,0 +1,9 @@
+**/out
+**/.idea
+*.iml
+*.pdf
+**/gradle
+*.gradle
+*.bat
+**/build
+**/gradlew
