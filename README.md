@@ -16,4 +16,9 @@ The subject obtains following topics:
 ### Technologies
 - Java 14
 - Hibernate
-- RxJava
+- RxJava 
+
+### Hronology
+
+* lab1: Persistance patterns
+* lab2: Context and Dependency Injection 
