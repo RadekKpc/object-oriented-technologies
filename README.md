@@ -20,5 +20,6 @@ The subject obtains following topics:
 
 ### Hronology
 
-* lab1: Persistance patterns
-* lab2: Context and Dependency Injection 
+* lab1: Persistance patterns [Link](https://github.com/RadekKpc/object-oriented-technologies/tree/master/lab1-persistence0)
+* lab2: Context and Dependency Injection [Link](https://github.com/RadekKpc/object-oriented-technologies/tree/master/lab2-dependency-injection/lab-ioc)
+* lab3: Reactive and Concurrecny programming with JavaRx [Link](https://github.com/RadekKpc/object-oriented-technologies/tree/master/lab3-reactive-programming-rxjava/lab-rx/src/main/java)
