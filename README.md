@@ -6,7 +6,7 @@ The subject obtains following topics:
 * Context and Dependency Injection
 * Persistance patterns
 * Reactive and Concurrecny programmin (RxJava in example)
-* Patterns for creating GUI
+* Patterns for GUI creation
 * Code Refactoring
 * Architectural patterns
 
@@ -17,9 +17,11 @@ The subject obtains following topics:
 - Java 14
 - Hibernate
 - RxJava 
+- JavaFx
 
 ### Chronology
 
 * lab1: Persistance patterns [Link](https://github.com/RadekKpc/object-oriented-technologies/tree/master/lab1-persistence)
 * lab2: Context and Dependency Injection [Link](https://github.com/RadekKpc/object-oriented-technologies/tree/master/lab2-dependency-injection/lab-ioc)
 * lab3: Reactive and Concurrecny programming with JavaRx [Link](https://github.com/RadekKpc/object-oriented-technologies/tree/master/lab3-reactive-programming-rxjava/lab-rx/src/main/java)
+* lab4: Patterns for GUI creation
